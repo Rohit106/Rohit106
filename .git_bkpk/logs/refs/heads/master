@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 2ea9044e7cf527755cf71d3c575e7f0df63ed385 root <root@mongo-repli-cl-1> 1588678328 +0530	clone: from http://git.aistechnolabs.xyz/root/test_ssh.git
+2ea9044e7cf527755cf71d3c575e7f0df63ed385 eeea26364185069c4b4dedb7318f9247e6cb6220 root <root@mongo-repli-cl-1> 1588681729 +0530	pull http://git.aistechnolabs.xyz/root/test_ssh.git: Fast-forward
+eeea26364185069c4b4dedb7318f9247e6cb6220 d9feb24e2c6bdc8f37d046a0b22da229af77e21d root <root@mongo-repli-cl-1> 1588681998 +0530	pull http://git.aistechnolabs.xyz/root/test_ssh.git: Fast-forward
+d9feb24e2c6bdc8f37d046a0b22da229af77e21d 12273118de610dc97fd918c59374cdc92d5a09e5 root <root@mongo-repli-cl-1> 1588682320 +0530	pull http://git.aistechnolabs.xyz/root/test_ssh.git: Fast-forward
+12273118de610dc97fd918c59374cdc92d5a09e5 4559f0693356e5954a3123b4f238e6b5f2754681 root <root@mongo-repli-cl-1> 1588690162 +0530	pull http://git.aistechnolabs.xyz/root/test_ssh.git: Fast-forward
+4559f0693356e5954a3123b4f238e6b5f2754681 7b980ca9c000479a19195736aa714b03f05f2192 root <root@mongo-repli-cl-1> 1588761867 +0530	pull http://git.aistechnolabs.xyz/root/test_ssh.git: Fast-forward
+7b980ca9c000479a19195736aa714b03f05f2192 58bfe0bc7cafb1c07cefccffceab97179f4b460e root <root@mongo-repli-cl-1> 1588775534 +0530	pull http://git.aistechnolabs.xyz/root/test_ssh.git: Fast-forward
+58bfe0bc7cafb1c07cefccffceab97179f4b460e b8d33fc33794d05592688486dfa47286e2c95023 root <root@mongo-repli-cl-1> 1588776216 +0530	pull http://git.aistechnolabs.xyz/root/test_ssh.git: Fast-forward
+b8d33fc33794d05592688486dfa47286e2c95023 d04943af08a486778a541eeff16f8440285d4ed2 root <root@mongo-repli-cl-1> 1588834772 +0530	pull http://git.aistechnolabs.xyz/root/test_ssh.git: Fast-forward
+d04943af08a486778a541eeff16f8440285d4ed2 d9fa113ab3ad0acc3e184cad026b69ee05611bd6 root <root@mongo-repli-cl-1> 1588835105 +0530	pull http://git.aistechnolabs.xyz/root/test_ssh.git: Fast-forward
+d9fa113ab3ad0acc3e184cad026b69ee05611bd6 a73bfb00f1b3d819efbfead08f118b3fde39e9f2 root <root@mongo-repli-cl-1> 1588835225 +0530	pull http://git.aistechnolabs.xyz/root/test_ssh.git: Fast-forward
+a73bfb00f1b3d819efbfead08f118b3fde39e9f2 cf8ebb829cefb5085fbd49bfd96140ef6a6a580d root <root@mongo-repli-cl-1> 1588835301 +0530	pull http://git.aistechnolabs.xyz/root/test_ssh.git: Fast-forward
+cf8ebb829cefb5085fbd49bfd96140ef6a6a580d 9e9f2f47d5e848ea3b99fb6e816e8e7a46458924 root <root@mongo-repli-cl-1> 1588835900 +0530	pull http://git.aistechnolabs.xyz/root/test_ssh.git: Fast-forward
+9e9f2f47d5e848ea3b99fb6e816e8e7a46458924 d15386683266cadf8fdb1e837e1a2966cfdeead4 root <root@mongo-repli-cl-1> 1588836676 +0530	pull http://git.aistechnolabs.xyz/root/test_ssh.git: Fast-forward
+d15386683266cadf8fdb1e837e1a2966cfdeead4 fe64c7d26ba3ca75a887f138ec7b6b525be9a668 root <root@mongo-repli-cl-1> 1588844320 +0530	pull http://git.aistechnolabs.xyz/root/test_ssh.git: Fast-forward
